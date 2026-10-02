@@ -1,1 +1,1 @@
-My reposity for the ongoing Programming for BA class
+This is my reposity for the ongoing Programming for BA Master class
